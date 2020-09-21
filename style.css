@@ -10,9 +10,6 @@ html {
   box-sizing: inherit;
 }
 
-.container {
-  margin: 0 auto auto 0;
-}
 
 /* FIRST LIST */
 .first-list {
@@ -757,4 +754,14 @@ footer {
   line-height: 140%;
   text-align: center;
   color: #818181;
+}
+
+body {
+  margin 0;
+  padding 0;
+}
+
+.container {
+  width: 1600px;
+  margin: 0 auto auto 0;
 }
